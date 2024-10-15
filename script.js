@@ -94,7 +94,7 @@ function activateScrollReveal() {
 var typed = new Typed('.typing', {
     strings: [
         '+2 años experiencia',
-        '"Desarrolador web fullstack"',
+        'Desarrolador web fullstack',
     ],
     typeSpeed: 50,
     backSpeed: 20, 

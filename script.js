@@ -106,7 +106,7 @@ var typed = new Typed('.typing', {
 var typed2 = new Typed('.typing2', {
     strings: [
         'Federico Diaz',
-        'Desarrollador web Back-end',
+        'Desarrollador web fullstack',
     ],
     typeSpeed: 40,
     backSpeed: 40,

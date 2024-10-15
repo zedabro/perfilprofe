@@ -93,8 +93,8 @@ function activateScrollReveal() {
 
 var typed = new Typed('.typing', {
     strings: [
-        'Carpe diem:',
-        '"Aprovecha el día y deja lo minimo posible para mañana."',
+        '+2 años experiencia',
+        '"Desarrolador web fullstack"',
     ],
     typeSpeed: 50,
     backSpeed: 20, 

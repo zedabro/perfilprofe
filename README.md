@@ -1,26 +1,14 @@
-# Portfólio de Henrike Pajares Braga
+#Habilidades desarrolladas en este proyecto
+Responsividad
 
-Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos e trabalhos, juntamente com informações sobre minhas habilidades e como entrar em contato comigo.
+Back-end con JavaScript
 
-## Sobre Mim
+DOM
 
-Olá! Me chamo Henrike Pajares Braga e sou um estudante de Programação Full Stack apaixonado por criar soluções inovadoras e escaláveis. Busco sempre me aperfeiçoar e conhecer novas tecnologias.
+Diferentes diseños con Display: Flex
 
-Além do desenvolvimento de software, também sou um entusiasta da música, fotografia e arte.
+Frameworks de CSS
 
-## Habilidades desenvolvidas neste projeto
-- Responsividade
-- Back-end com JavaScript
-- DOM
-- Diferentes layouts com Display: Flex
-- Frameworks de CSS
-- HTML Semântico
+HTML Semántico
 
-## Contato
-
-Se você gostaria de discutir um projeto, colaboração ou apenas dizer oi, sinta-se à vontade para entrar em contato comigo:
-
-- Email: pajaresbragahenrike@gmail.com
-- LinkedIn: [Henrike Pajares Braga](https://www.linkedin.com/in/henrikebraga/)
-
-Fico feliz em conhecê-lo e estou ansioso para colaborar!
+Contacto
